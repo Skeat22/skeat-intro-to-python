@@ -8,7 +8,7 @@ Follow this link for a python setup how-to (there are tons, but this is the most
 https://data-flair.training/blogs/install-python-windows/
 Alternatively here are the big steps I would recommend:
 1. visit https://www.python.org/downloads/ and find the download that best suits your system (windows vs. mac vs. linux)
-2. Double click the download to begin installation. If you are brand new almost all the defaults should be fine except one thing you want to make sure to select the following on the first step of the installer (becomes very important for almost all python exercise/applications) ![Adding Python to path step ](/images/py-to-path.PNG)
+2. Double click the download to begin installation. To get started, almost all the defaults should be fine except one thing you want to make sure to select the following on the first step of the installer (becomes very important for almost all python exercise/applications) ![Adding Python to path step ](/images/py-to-path.PNG)
 3. At the end of the installation attempt to find & fire up python either by searching in the searchbar for pyhton, or better using your machine's terminal. On windows this is probably CMD. So search for that in on you machine like so: ![Finding CMD](/images/finding-cmd.PNG). Once you have CMD open (aka a terminal) type in the word 'python' and hit enter you should see results similar to mine between the first two red dots. Next ty typing the following **print('hello world!')** and you should see results like mine after the last red dot. and BOOM you just fired up a programming language, wrote & executed some code!
 
 
