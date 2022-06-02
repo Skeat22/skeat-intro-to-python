@@ -51,3 +51,8 @@ Go ahead and either use my folder (downloadable from this page), or create your 
 Here is what my workspace with VsCode looks like once I have created these two files (*I moved them into side-by-side panes by dragging them*): ![Skeat's Workspace](/images/workspace.PNG)
 
 On the left is my python script file (i.e. **.py**) and on the right is my Jupyter Notebook for Python (i.e. **.ipynb**)
+
+# Coming Soon....
+- Exercise using Python to work with many spreadsheet files (i.e. .xlsx) that require cross referencing & other types of manipulation (If you want to explore ahead, I will be using this library to work with the files: https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673,  https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+
+- Exercise using folders containing images to craft consolidated PDFs contianing said images
