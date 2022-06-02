@@ -22,7 +22,9 @@ Set up for this one should be as simple as downloading and running the installer
 
 Once you have both Python & VsCode available on your machine, you should have all the basic tools you need to start experimenting & learning!
 To replicate what we did earlier in the CMD terminal VsCode, all you have to do is open Vscode and create a new folder on your hard drive (i.e. **C:** typically for windows computers).
-I recommend adding to extensions to your VsCode installation, you can look them up via the **Extensions** panel in VsCode (first circle) ![VsCode Extensions](/images/vscode-extensions.PNG). The one's I recommend are the last 2 circled: 
+I recommend adding to extensions to your VsCode installation, you can look them up via the **Extensions** panel in VsCode (first circle)
+![VsCode Extensions](/images/vscode-extensions.PNG).
+The one's I recommend are the last 2 circled: 
 - Python  (utlilties that make using python in VsCode even easier/efficient/productive)
 - Jupyter (package that allows you to write python in an interactive way conducive to exploring the Python language as well as the data you are working with itself)
 
